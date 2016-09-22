@@ -47,7 +47,7 @@ Console report runs with test compile.
 
 
 | Optionn        | Required           | Default  | Allowed | Description |
-| ------------- | ------------- | ----- | --- |
+| -------------- | ------------------ | -------- | ------- | ----------- |
 | scanPackage      | No |  | any value |Specify base package to inspect |
 | consoleOutputs      | No |  | xml, console | Optional log output to console |
 | validators      | Yes |  | camel-case, three-segments, illegal-prefix, match-method, all | Specify at least one of the validators to use |
